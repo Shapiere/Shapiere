@@ -1,4 +1,4 @@
-# Shapiere Januar Rafiansyah
+# Hi, I'm Shapiere 👋
 
 **Aspiring Fullstack Developer | Building practical and maintainable web applications**
 
@@ -14,7 +14,7 @@ I enjoy working on projects that combine user interfaces, backend logic, databas
 
 ---
 
-## Current Focus
+## Current Focus 🚀
 
 - Fullstack Web Development
 - Backend API Development
@@ -25,7 +25,7 @@ I enjoy working on projects that combine user interfaces, backend logic, databas
 
 ---
 
-## Tech Stack
+## Tech Stack 🧰
 
 These are technologies I use, practice, or am currently learning.
 
@@ -43,7 +43,7 @@ Git, GitHub, Docker, Antigravity IDE, Codex, AI-assisted development tools
 
 ---
 
-## Featured Projects
+## Featured Projects 📌
 
 ### Eventra  
 **Status:** Planned / Currently building  
@@ -65,13 +65,13 @@ A healthcare and public service related system built to practice fullstack devel
 
 ---
 
-## Currently Building
+## Currently Building 🛠️
 
 I'm currently improving my GitHub portfolio and preparing **Eventra** as a serious fullstack portfolio project. My current goal is to build projects that are not only functional, but also well-documented, maintainable, and easy to understand.
 
 ---
 
-## What I'm Aiming For
+## What I'm Aiming For 🎯
 
 My goal is to become a Fullstack Developer who can turn real-world problems into useful and maintainable web applications.
 
@@ -79,7 +79,7 @@ I want to keep improving not only in coding, but also in product thinking, softw
 
 ---
 
-## Development Philosophy
+## Development Philosophy 💡
 
 - Practical over flashy
 - Maintainable over quick hacks
@@ -89,7 +89,7 @@ I want to keep improving not only in coding, but also in product thinking, softw
 
 ---
 
-## Connect
+## Connect 🤝
 
 - LinkedIn: Coming soon
 - Email: Coming soon
